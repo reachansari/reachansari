@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-reachansari@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reachansari@gmail.com)](mailto:reachansari@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-thameem-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/reachansari/)](https://github.com/reachansari)
 [![Medium Badge](https://img.shields.io/badge/-thameem-F6F6F6?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@reachansari)](https://medium.com/@reachansari)
-[![Website Badge](https://img.shields.io/badge/-manparvesh.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://manparvesh.com/)
+[![Website Badge](https://img.shields.io/badge/-thameem.com-0078FF?style=flat-square&logo=google-chrome&logoColor=white&link=https://thameem.com/)](https://thameem.com/)
 
 
 <h3>Technologies I like</h3>
