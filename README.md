@@ -16,6 +16,8 @@
   <!--img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /-->
  <img alt="Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-F7F7F7?style=flat-square&logo=Apache%20Kafka&logoColor=black"/>
   <img alt="Jenkins CI" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+   <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
+  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-2680F4?style=flat-square&logo=Bitbucket&logoColor=white" />
