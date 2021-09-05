@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Thameem Ansari](https://manparvesh.com)
+### Hi there 👋 I am [Thameem Ansari](#)
 
 <h3>Technologies I like</h3>
 <p>
