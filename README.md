@@ -14,7 +14,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-2680F4?style=flat-square&logo=Bitbucket&logoColor=white" />
 </p>
 
 <!--
