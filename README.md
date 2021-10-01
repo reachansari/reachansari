@@ -9,7 +9,8 @@
 [![Website Badge](https://img.shields.io/badge/-reachansari.com-0078FF?style=flat-square&logo=google-chrome&logoColor=white&link=https://reachansari.com/)](https://reachansari.com/)
 
 
-<h3>Technologies I like</h3>
+<!-- <h3>Technologies I like</h3> -->
+## 🚀 Technologies I like 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
