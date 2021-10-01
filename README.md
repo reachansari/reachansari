@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to sing karoke.
 
-#### 📬 Let's get in touch
+### 📬 Let's get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-thameem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thameemansari/)](https://www.linkedin.com/in/thameemansari/)
 [![Gmail Badge](https://img.shields.io/badge/-reachansari@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reachansari@gmail.com)](mailto:reachansari@gmail.com)
@@ -21,7 +21,7 @@
 
 <!-- <h3>Technologies I like</h3> -->
 <!-- ## 🚀 Technologies I like -->
-#### 🛠  Technologies
+### 🛠  Technologies
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
