@@ -10,7 +10,8 @@
 
 
 <!-- <h3>Technologies I like</h3> -->
-## 🚀 Technologies I like 
+<!-- ## 🚀 Technologies I like -->
+## 🛠  Technologies
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
