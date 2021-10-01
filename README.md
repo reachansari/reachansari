@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🏫 I'm Thameem Ansari, from Singapore.
+- 🏫 I'm Thameem Ansari from Singapore.
 - 🔭 I’m currently working on Backend Development
 - 😐 I have a love/hate relationship with Programming
 - 🌱 I’m currently learning everything 🤣
