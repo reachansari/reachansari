@@ -1,5 +1,7 @@
 ### Hi there 👋 I am [Thameem Ansari](#)
 
+## 📬 Let's get in touch
+
 [![Linkedin Badge](https://img.shields.io/badge/-thameem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thameemansari/)](https://www.linkedin.com/in/thameemansari/)
 [![Gmail Badge](https://img.shields.io/badge/-reachansari@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reachansari@gmail.com)](mailto:reachansari@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-thameem-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/reachansari/)](https://github.com/reachansari)
