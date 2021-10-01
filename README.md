@@ -1,5 +1,13 @@
 ### Hi there 👋 I am [Thameem Ansari](#)
 
+## I'm a Husband, Father, Developer, and Teacher!!
+
+- 🔭 I’m currently working on Backend Development
+- 😐 I have a love/hate relationship with Programming
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to sing karoke
+
 ## 📬 Let's get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-thameem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thameemansari/)](https://www.linkedin.com/in/thameemansari/)
