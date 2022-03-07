@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Backend Development.
 - 😐 I have a love/hate relationship with Programming.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to sing karoke.
 
 ## 📬 Let's get in touch ##
